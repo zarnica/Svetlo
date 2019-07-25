@@ -1,1 +1,1 @@
-# Hello World. I am Matjaž and I am trying to programe.
+# Hello World. I am Matjaž and I am trying to programme.
